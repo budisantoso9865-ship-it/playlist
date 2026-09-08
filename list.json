@@ -423,6 +423,254 @@
       "ImageId": "",
       "SoundId": "rbxassetid://116658881591582",
       "Speed": 0.4
+    },
+    {
+      "Title": "FUNKOT CASABLANCA",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130966153638177",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT DENAI NAN JAUH",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://137443168209674",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT SPECIAL ANAK MAMA GALAU",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122125979960266",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT GARAM CINA",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://132177724439913",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT SAYANG",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91352033502892",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT TAKKAN PISAH",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93542018348134",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT CINTA TERBAIK",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82305645210713",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT PURNAMA MERINDU",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91166732096407",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT TENTANG RASA",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://116449829329460",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT TERBANG BERSAMAKU",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://113593815430396",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT CINTA TERBAIK",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96851562121927",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT ATAS NAMA",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74967332727325",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT ISABELA",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130520310900833",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT BINTANG KEHIDUPAN",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93774399557246",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT JANGAN MALU BOY",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99482927827992",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT ARTI CINTA",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://103997567827591",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT CURI CURI PANDANG",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://123836903061684",
+      "Speed": 1
+    },
+    {
+      "Title": "FUNKOT MUNGKIN",
+      "Artist": "Funkot",
+      "Genre": "Funkot",
+      "ImageId": "",
+      "SoundId": "rbxassetid://84974101677546",
+      "Speed": 1
+    },
+    {
+      "Title": "DISENCHANTED",
+      "Artist": "Alternative",
+      "Genre": "Rock",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108246918880866",
+      "Speed": 1.0
+    },
+    {
+      "Title": "DISENCHANTED 1",
+      "Artist": "Alternative",
+      "Genre": "Rock",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136908000357597",
+      "Speed": 0.30
+    },
+    {
+      "Title": "Sesi Potret",
+      "Artist": "Indie",
+      "Genre": "Pop",
+      "ImageId": "",
+      "SoundId": "rbxassetid://133920292116113",
+      "Speed": 1.0
+    },
+    {
+      "Title": "Dirgahayu-Republik-Indonesia-yang-ke-81",
+      "Artist": "Nasional",
+      "Genre": "Traditional",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74551203339614",
+      "Speed": 1.0
+    },
+    {
+      "Title": "Ampar Ampar pisang",
+      "Artist": "Lagu Daerah",
+      "Genre": "Folk",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115318754895071",
+      "Speed": 1.0
+    },
+    {
+      "Title": "COSELL TENDA BIRU REGGAE",
+      "Artist": "Cosell",
+      "Genre": "Reggae",
+      "ImageId": "",
+      "SoundId": "rbxassetid://88639976127109",
+      "Speed": 1.0
+    },
+    {
+      "Title": "COSELL SATU HATI SAMPAI MATI REGGAE",
+      "Artist": "Cosell",
+      "Genre": "Reggae",
+      "ImageId": "",
+      "SoundId": "rbxassetid://109911861372749",
+      "Speed": 1.0
+    },
+    {
+      "Title": "COSELL MUNGKIN REGGAE",
+      "Artist": "Cosell",
+      "Genre": "Reggae",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98629863728827",
+      "Speed": 1.0
+    },
+    {
+      "Title": "COSELL MEMORI BERKASIH REGGAE",
+      "Artist": "Cosell",
+      "Genre": "Reggae",
+      "ImageId": "",
+      "SoundId": "rbxassetid://72844160115467",
+      "Speed": 1.0
+    },
+    {
+      "Title": "COSELL KUTIMANG ADIKKU SAYANG REGGAE",
+      "Artist": "Cosell",
+      "Genre": "Reggae",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75350606474106",
+      "Speed": 1.0
+    },
+    {
+      "Title": "COSELL KEHADIRANMU VAGETOZ REGGAE",
+      "Artist": "Vagetoz",
+      "Genre": "Reggae",
+      "ImageId": "",
+      "SoundId": "rbxassetid://101795771966532",
+      "Speed": 1.0
+    },
+    {
+      "Title": "COSELL KAU TERCIPTA BUKAN UNTUKKU REGGAE",
+      "Artist": "Cosell",
+      "Genre": "Reggae",
+      "ImageId": "",
+      "SoundId": "rbxassetid://139566986504307",
+      "Speed": 1.0
+    },
+    {
+      "Title": "COSELL HARUSNYA AKU REGGAE",
+      "Artist": "Cosell",
+      "Genre": "Reggae",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110903106195729",
+      "Speed": 1.0
     }
   ]
 }
