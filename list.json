@@ -296,5 +296,133 @@
       "SoundId": "rbxassetid://115314108347475",
       "Speed": 1
     }
+    {
+		Title = "Mahalini Sial",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://90166430558578",
+		Speed = 1.0
+	},
+	{
+		Title = "Menghapus Jejakmu",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://127743325474209",
+		Speed = 0.43
+	},
+	{
+		Title = "MIXTAPE1",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://122089971196925",
+		Speed = 0.43
+	},
+	{
+		Title = "MIXTAPE2",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://99168299953061",
+		Speed = 0.43
+	},
+	{
+		Title = "MIXTAPE3",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://139358139938358",
+		Speed = 0.43
+	},
+	{
+		Title = "MIXTAPE4",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://88153354142218",
+		Speed = 0.43
+	},
+	{
+		Title = "MIXTAPE5",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://77085664543035",
+		Speed = 0.43
+	},
+	{
+		Title = "MIXTAPE6",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://88620202475476",
+		Speed = 0.43
+	},
+	{
+		Title = "MIXTAPE7",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://78012051190478",
+		Speed = 0.47
+	},
+	{
+		Title = "MIXTAPE8",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://110116480675064",
+		Speed = 0.40
+	},
+	{
+		Title = "MIXTAPE9",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://105955378609525",
+		Speed = 0.47
+	},
+	{
+		Title = "MIXTAPE10",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://76744847908761",
+		Speed = 0.46
+	},
+	{
+		Title = "MIXTAPE11",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://83214971869344",
+		Speed = 0.46
+	},
+	{
+		Title = "MIXTAPE12",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://123419649121663",
+		Speed = 0.46
+	},
+	{
+		Title = "MIXTAPE13",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://135678662185005",
+		Speed = 0.4
+	},
+	{
+		Title = "MIXTAPE14",
+		Artist = "Crayonn",
+		Genre = "RnB",
+		ImageId = "",
+		SoundId = "rbxassetid://116658881591582",
+		Speed = 0.4
+	}
   ]
 }
